@@ -271,7 +271,7 @@ print("-------------------------------------------------------------------------
 <figcaption><b></b></figcaption></figure>
 </div>
 
-## Matplotlib
+## Requests
 + Requests: Es una biblioteca para realizar solicitudes HTTP.
 + Para su instalación escribir en consola `pip install request`:
   
