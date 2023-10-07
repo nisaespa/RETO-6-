@@ -1,4 +1,4 @@
-# RETO 6 
+# RETO 6 👽
 ## Funciones 
 
 1. Dado la figura de la imagen, desarrolle:
@@ -11,6 +11,7 @@
 + Una función matemática para calcular el volumen y el área superficial.
 + Cree dos funciones en python para calcular los valores antes establecidos, al ingresar por teclado `r1`, `r2` y `h`.
 + Revise como utilizar el valor de `pi` usando *import math* y *math.pi*
+                                             
 ```python
 import math #importar math para el número pi
 #función del volumen y el area superficial total (de las dos figuras sumadas)
@@ -231,4 +232,21 @@ print("-------------------------------------------------------------------------
 
 9. Consultar qué es y cómo funciona *pip* en python.
 
-10. Hacer un listado de módulos populares para python que se puedan instalar com *pip* y consultar cómo instalarlos.
+<div align='center'>
+<figure> <img src="https://www.telecomhall.net/uploads/db2683/original/2X/9/93768e7290bc8c8473a02561ac4e608642cfbaca.png" alt="" width="300" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
++ PIP (Package Installer for Python) es una herramienta que se utiliza para instalar y administrar paquetes de software en Python. Los paquetes son módulos o bibliotecas de código que contienen funcionalidades específicas que pueden ser utilizadas en proyectos de Python.
+
++ PIP funciona conectándose a un repositorio en línea llamado Python Package Index (PyPI), donde se encuentran disponibles paquetes de software de Python. Se utiliza para buscar, instalar, actualizar y desinstalar paquetes de Python de manera sencilla.
+
+10. Hacer un listado de módulos populares para python que se puedan instalar con *pip* y consultar cómo instalarlos.
+
++ NumPy: una biblioteca para realizar cálculos numéricos y operaciones matemáticas de alto rendimiento.
++ Pandas: una biblioteca para el análisis y manipulación de datos.
++ Matplotlib: una biblioteca para crear gráficos y visualizaciones.
++ Requests: una biblioteca para realizar solicitudes HTTP.
++ Django: un framework para el desarrollo web.
++ Flask: un microframework para el desarrollo web.
++ TensorFlow: una biblioteca para el aprendizaje automático y la inteligencia artificial.
