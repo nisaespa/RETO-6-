@@ -242,11 +242,68 @@ print("-------------------------------------------------------------------------
 + PIP funciona conectándose a un repositorio en línea llamado Python Package Index (PyPI), donde se encuentran disponibles paquetes de software de Python. Se utiliza para buscar, instalar, actualizar y desinstalar paquetes de Python de manera sencilla.
 
 10. Hacer un listado de módulos populares para python que se puedan instalar con *pip* y consultar cómo instalarlos.
++ Para la instalación de los siguientes modulos es necesario tener PIP instalado, para verificar, en la consola o simbolo de sistema escribir `pip --version`. Si no está instalado se puede seguir las instrucciones en la documentación oficial de Python para instalarlo.
++ En las siguientes imágenes se podrá ver la instalación de cada modulo desde la consola o simbolo de sistema de Windows.
+## Numpy
++ Es una biblioteca para realizar cálculos numéricos y operaciones matemáticas de alto rendimiento.
++ Para su instalación escribir en consola `pip install numpy`:
 
-+ NumPy: una biblioteca para realizar cálculos numéricos y operaciones matemáticas de alto rendimiento.
-+ Pandas: una biblioteca para el análisis y manipulación de datos.
-+ Matplotlib: una biblioteca para crear gráficos y visualizaciones.
-+ Requests: una biblioteca para realizar solicitudes HTTP.
-+ Django: un framework para el desarrollo web.
-+ Flask: un microframework para el desarrollo web.
-+ TensorFlow: una biblioteca para el aprendizaje automático y la inteligencia artificial.
+<div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/RETO-6-/main/Pip%20instalaci%C3%B3n%20modulos/numpy.png" alt="" width="1000" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
+## Pandas
++ Es una biblioteca para el análisis y manipulación de datos.
++ Para su instalación escribir en consola `pip install pandas`:
+
+<div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/RETO-6-/main/Pip%20instalaci%C3%B3n%20modulos/pandas.png" alt="" width="1000" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
+## Matplotlib
++ Es una biblioteca para crear gráficos y visualizaciones.
++ Para su instalación escribir en consola `pip install matplotlib`:
+
+<div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/RETO-6-/main/Pip%20instalaci%C3%B3n%20modulos/matplotlib.png" alt="" width="1000" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
+## Matplotlib
++ Requests: Es una biblioteca para realizar solicitudes HTTP.
++ Para su instalación escribir en consola `pip install request`:
+  
+<div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/RETO-6-/main/Pip%20instalaci%C3%B3n%20modulos/requests.png" alt="" width="1000" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
+## Django
++ Django: Es un framework para el desarrollo web.
++ Para su instalación escribir en consola `pip install django`:
+
+<div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/RETO-6-/main/Pip%20instalaci%C3%B3n%20modulos/django.png" alt="" width="1000" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
+## Flask
++ Flask: Es un microframework para el desarrollo web.
++ Para su instalación escribir en consola `pip install flask`:
+
+<div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/RETO-6-/main/Pip%20instalaci%C3%B3n%20modulos/flask.png" alt="" width="1000" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
+## Tensorflow
++ Es una biblioteca para el aprendizaje automático y la inteligencia artificial.
++ Para su instalación escribir en consola `pip install tensorflow`:
+
+<div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/RETO-6-/main/Pip%20instalaci%C3%B3n%20modulos/tensorflow.png " alt="" width="1000" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
